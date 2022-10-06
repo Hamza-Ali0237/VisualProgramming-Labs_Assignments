@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>L2_A3</name>
+    </assembly>
+    <members>
+        <member name="T:Program">
+            <summary>
+                program class
+                project starts from main method of this class
+            </summary>
+        </member>
+        <member name="M:Program.Main(System.String[])">
+            <summary>
+                Main Method
+                Entry point of this Project
+            </summary>
+        </member>
+    </members>
+</doc>

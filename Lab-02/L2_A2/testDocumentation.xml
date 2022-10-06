@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>testDocumentation</name>
+    </assembly>
+    <members>
+        <member name="T:simple.program">
+            <summary>
+            	program class
+            	project startsfrom main method of this class
+            </summary>
+        </member>
+        <member name="M:simple.program.Main(System.String[])">
+            <summary>
+            	Main Method
+            	Entry point of Project
+            </summary>
+        </member>
+    </members>
+</doc>
