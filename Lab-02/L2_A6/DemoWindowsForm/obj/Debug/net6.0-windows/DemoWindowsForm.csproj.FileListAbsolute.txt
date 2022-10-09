@@ -1,0 +1,17 @@
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\bin\Debug\net6.0-windows\DemoWindowsForm.exe
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\bin\Debug\net6.0-windows\DemoWindowsForm.deps.json
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\bin\Debug\net6.0-windows\DemoWindowsForm.runtimeconfig.json
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\bin\Debug\net6.0-windows\DemoWindowsForm.dll
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\bin\Debug\net6.0-windows\DemoWindowsForm.pdb
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\DemoWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\DemoWindowsForm.Form1.resources
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\DemoWindowsForm.csproj.GenerateResource.cache
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\DemoWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\DemoWindowsForm.AssemblyInfoInputs.cache
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\DemoWindowsForm.AssemblyInfo.cs
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\DemoWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\DemoWindowsForm.dll
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\refint\DemoWindowsForm.dll
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\DemoWindowsForm.pdb
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\DemoWindowsForm.genruntimeconfig.cache
+C:\Users\Humza's Macbook\Desktop\DemoWindowsForm\DemoWindowsForm\obj\Debug\net6.0-windows\ref\DemoWindowsForm.dll
