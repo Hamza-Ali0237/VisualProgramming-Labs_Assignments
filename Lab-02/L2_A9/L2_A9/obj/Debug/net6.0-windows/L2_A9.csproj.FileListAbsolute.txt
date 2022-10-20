@@ -1,0 +1,17 @@
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\bin\Debug\net6.0-windows\L2_A9.exe
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\bin\Debug\net6.0-windows\L2_A9.deps.json
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\bin\Debug\net6.0-windows\L2_A9.runtimeconfig.json
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\bin\Debug\net6.0-windows\L2_A9.dll
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\bin\Debug\net6.0-windows\L2_A9.pdb
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\L2_A9.csproj.AssemblyReference.cache
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\L2_A9.Form1.resources
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\L2_A9.csproj.GenerateResource.cache
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\L2_A9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\L2_A9.AssemblyInfoInputs.cache
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\L2_A9.AssemblyInfo.cs
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\L2_A9.csproj.CoreCompileInputs.cache
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\L2_A9.dll
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\refint\L2_A9.dll
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\L2_A9.pdb
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\L2_A9.genruntimeconfig.cache
+C:\Users\Humza's Macbook\Desktop\L2_A9\L2_A9\obj\Debug\net6.0-windows\ref\L2_A9.dll
