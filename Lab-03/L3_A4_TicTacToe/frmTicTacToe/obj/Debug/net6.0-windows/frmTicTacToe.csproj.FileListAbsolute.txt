@@ -1,0 +1,17 @@
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\bin\Debug\net6.0-windows\frmTicTacToe.exe
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\bin\Debug\net6.0-windows\frmTicTacToe.deps.json
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\bin\Debug\net6.0-windows\frmTicTacToe.runtimeconfig.json
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\bin\Debug\net6.0-windows\frmTicTacToe.dll
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\bin\Debug\net6.0-windows\frmTicTacToe.pdb
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\frmTicTacToe.csproj.AssemblyReference.cache
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\frmTicTacToe.Form1.resources
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\frmTicTacToe.csproj.GenerateResource.cache
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\frmTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\frmTicTacToe.AssemblyInfoInputs.cache
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\frmTicTacToe.AssemblyInfo.cs
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\frmTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\frmTicTacToe.dll
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\refint\frmTicTacToe.dll
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\frmTicTacToe.pdb
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\frmTicTacToe.genruntimeconfig.cache
+C:\Users\Humza's Macbook\Desktop\L3_A4_TicTacToe\frmTicTacToe\obj\Debug\net6.0-windows\ref\frmTicTacToe.dll
