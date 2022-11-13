@@ -1,0 +1,17 @@
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\bin\Debug\net6.0-windows\L3_A5_TTT.exe
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\bin\Debug\net6.0-windows\L3_A5_TTT.deps.json
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\bin\Debug\net6.0-windows\L3_A5_TTT.runtimeconfig.json
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\bin\Debug\net6.0-windows\L3_A5_TTT.dll
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\bin\Debug\net6.0-windows\L3_A5_TTT.pdb
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\L3_A5_TTT.csproj.AssemblyReference.cache
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\L3_A5_TTT.Form1.resources
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\L3_A5_TTT.csproj.GenerateResource.cache
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\L3_A5_TTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\L3_A5_TTT.AssemblyInfoInputs.cache
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\L3_A5_TTT.AssemblyInfo.cs
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\L3_A5_TTT.csproj.CoreCompileInputs.cache
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\L3_A5_TTT.dll
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\refint\L3_A5_TTT.dll
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\L3_A5_TTT.pdb
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\L3_A5_TTT.genruntimeconfig.cache
+C:\Users\Humza's Macbook\Desktop\L3_A5_TTT\L3_A5_TTT\obj\Debug\net6.0-windows\ref\L3_A5_TTT.dll
