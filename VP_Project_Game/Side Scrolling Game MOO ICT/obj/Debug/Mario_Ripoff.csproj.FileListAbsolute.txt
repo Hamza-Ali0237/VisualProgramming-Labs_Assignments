@@ -1,0 +1,11 @@
+C:\Users\Humza's Macbook\Desktop\VP_Project_Game\Side Scrolling Game MOO ICT\bin\Debug\Side Scrolling Game MOO ICT.exe.config
+C:\Users\Humza's Macbook\Desktop\VP_Project_Game\Side Scrolling Game MOO ICT\bin\Debug\Side Scrolling Game MOO ICT.exe
+C:\Users\Humza's Macbook\Desktop\VP_Project_Game\Side Scrolling Game MOO ICT\bin\Debug\Side Scrolling Game MOO ICT.pdb
+C:\Users\Humza's Macbook\Desktop\VP_Project_Game\Side Scrolling Game MOO ICT\obj\Debug\Mario_Ripoff.csproj.AssemblyReference.cache
+C:\Users\Humza's Macbook\Desktop\VP_Project_Game\Side Scrolling Game MOO ICT\obj\Debug\Mario_Ripoff.csproj.SuggestedBindingRedirects.cache
+C:\Users\Humza's Macbook\Desktop\VP_Project_Game\Side Scrolling Game MOO ICT\obj\Debug\Side_Scrolling_Game_MOO_ICT.Form1.resources
+C:\Users\Humza's Macbook\Desktop\VP_Project_Game\Side Scrolling Game MOO ICT\obj\Debug\Side_Scrolling_Game_MOO_ICT.Properties.Resources.resources
+C:\Users\Humza's Macbook\Desktop\VP_Project_Game\Side Scrolling Game MOO ICT\obj\Debug\Mario_Ripoff.csproj.GenerateResource.cache
+C:\Users\Humza's Macbook\Desktop\VP_Project_Game\Side Scrolling Game MOO ICT\obj\Debug\Mario_Ripoff.csproj.CoreCompileInputs.cache
+C:\Users\Humza's Macbook\Desktop\VP_Project_Game\Side Scrolling Game MOO ICT\obj\Debug\Side Scrolling Game MOO ICT.exe
+C:\Users\Humza's Macbook\Desktop\VP_Project_Game\Side Scrolling Game MOO ICT\obj\Debug\Side Scrolling Game MOO ICT.pdb
