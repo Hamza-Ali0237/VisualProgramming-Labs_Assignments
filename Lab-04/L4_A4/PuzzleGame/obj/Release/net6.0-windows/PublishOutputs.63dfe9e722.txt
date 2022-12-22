@@ -1,0 +1,5 @@
+E:\Academic\5th\VP\Lab 04\PuzzleGame\PuzzleGame.exe
+E:\Academic\5th\VP\Lab 04\PuzzleGame\PuzzleGame.dll
+E:\Academic\5th\VP\Lab 04\PuzzleGame\PuzzleGame.deps.json
+E:\Academic\5th\VP\Lab 04\PuzzleGame\PuzzleGame.runtimeconfig.json
+E:\Academic\5th\VP\Lab 04\PuzzleGame\PuzzleGame.pdb
